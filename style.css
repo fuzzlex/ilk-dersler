@@ -1,0 +1,14 @@
+#firstParagraph {
+    color: blue;
+    background-color: brown;
+
+
+}
+h1 {
+    border: coral;
+    border-style: groove;
+}
+p {
+    color: rgb(57, 24, 94);
+    background-color: darkgray;
+}
